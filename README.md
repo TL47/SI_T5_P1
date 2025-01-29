@@ -10,9 +10,9 @@ import keyboard
 
 Ahora hay que crear una función que te registre y te imprima las teclas
 
-    1.- Creo la función llamada "registrar_pulsaciones" con el parámetro "event"
-    2.- A continuación, creo la variable tecla que me guarde en una cadena las teclas que vaya pulsando con el "event.name"
-    3.- Y por último hago que se imrpima las teclas que pulso con "print"
+1. Creo la función llamada "registrar_pulsaciones" con el parámetro "event"
+2. A continuación, creo la variable tecla que me guarde en una cadena las teclas que vaya pulsando con el "event.name"
+3. Y por último hago que se imrpima las teclas que pulso con "print"
 
  ```python
 def registrar_pulsaciones(event):
