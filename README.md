@@ -1,6 +1,6 @@
 # SI_T5_P1
 
-# Práctica keylogger
+## Práctica keylogger
 
 Lo primero que hay que hacer es poner el siguiente comando para importar la librería
 
